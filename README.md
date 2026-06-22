@@ -1,4 +1,4 @@
-# ESP32-S3 TinyML Gesture-Controlled Lock
+# ESP32-S3 TinyML Gesture-Securtiy-System
 
 A bare-metal, offline gesture-recognition security system built using an ESP32-S3 (N16R8) and TensorFlow Lite for Microcontrollers.
 
